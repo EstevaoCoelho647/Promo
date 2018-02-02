@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1067784161907",
+    "firebase_url": "https://promo-f270d.firebaseio.com",
+    "project_id": "promo-f270d",
+    "storage_bucket": "promo-f270d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067784161907:android:01e3beadfb547787",
+        "android_client_info": {
+          "package_name": "com.estevaocoelho.promo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067784161907-u3m5r8bquts7970cfebodhjutl2g2omm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.estevaocoelho.promo",
+            "certificate_hash": "489eb1754c6ac71b9ea42e5b56b6d740b0030af8"
+          }
+        },
+        {
+          "client_id": "1067784161907-h8vl9414vjfima9h5ghivbkal1m80cs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhk9mTPpp6MK-KDEFDoxV8NYs2Sdmyt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067784161907-h8vl9414vjfima9h5ghivbkal1m80cs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

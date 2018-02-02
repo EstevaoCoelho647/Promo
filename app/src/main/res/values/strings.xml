@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Promô</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="camera_permission_message">Para utilizar a camera é neccesario aceitar a permissão</string>
+    <string name="item_save_success">Item salvo com sucesso</string>
+    <string name="item_save_error">Erro ao salvar o novo item</string>
+</resources>
